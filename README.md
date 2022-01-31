@@ -15,4 +15,4 @@ elif islem=="/" and sayi2!=0:
         sonuc=sayi1/sayi2
         print(sonuc)
 else:
-        print("Malesef hatalı giriş yatpınız.")
+       print("Malesef hatalı giriş yatpınız")
